@@ -1,0 +1,75 @@
+{
+   margin: 0;
+   padding: 0; 
+} 
+
+.well{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-variant: small-caps;
+    line-height: 45px;
+}
+.done{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.well:hover{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-size: x-large;    
+    text-align: center;
+    background: lightskyblue;
+    color: white;
+}
+.bgrn{
+    background-image: url(skul.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 270px;
+}
+.jp{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-size: 55px;
+    padding-top: 20px;
+    line-height: 270px;
+}
+.jp:hover{
+    background-color: lightskyblue;
+    color: white;
+}
+.l1{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 45px;
+}
+.l1:hover{
+    background-color: lightskyblue;
+    color: brown;
+}
+.l2{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 45px;
+}
+.l2:hover{
+    background-color: lightgreen;
+    color: cornflowerblue;
+}
+.l3{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 45px;
+}
+.l3:hover{
+    background-color: lightsalmon;
+    color: cornsilk;
+}
+.mr{
+    font-family: 'Courier New', Courier, monospace;
+}
+.rm{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightslategrey;
+}
